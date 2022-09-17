@@ -19,12 +19,14 @@ body {
     font-weight: bolder;
 }
 
-.conA {
-    height: 350px;
+.conA {    
     background: rgb(66, 54, 78);
     color: white;
     display: flex; 
     padding-top: 30px; 
+    padding-bottom: 50px;
+    padding-right: 50px;
+    justify-content: center;
 }
 
 .conAB {
